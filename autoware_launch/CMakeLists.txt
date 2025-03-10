@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(launch_validation_test)
+project(autoware_launch)
 
 find_package(ament_cmake_auto REQUIRED)
 ament_auto_find_build_dependencies()
