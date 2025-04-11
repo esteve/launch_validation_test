@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <arg name="arg01" description="arg01"/>
+  <arg name="arg02" description="arg02"/>
+  <arg name="arg03" description="arg03"/>
+  <arg name="arg04" description="arg04"/>
+  <arg name="arg05" description="arg05"/>
+  <arg name="arg06" description="arg06"/>
+  <arg name="arg07" description="arg07"/>
+  <arg name="arg08" description="arg08"/>
+  <arg name="arg09" description="arg09"/>
+  <arg name="arg10" description="arg10"/>
+  <arg name="arg11" description="arg11"/>
+  <arg name="arg12" description="arg12"/>
+  <arg name="arg13" description="arg13"/>
+  <arg name="arg14" description="arg14"/>
+  <arg name="arg15" description="arg15"/>
+  <arg name="arg16" description="arg16"/>
+  <arg name="arg17" description="arg17"/>
+  <arg name="arg18" description="arg18"/>
+  <arg name="arg19" description="arg19"/>
+  <arg name="arg20" description="arg20"/>
+
+  <node pkg="examples_rclcpp_minimal_publisher" exec="publisher_lambda" name="publisher_lambda_node" namespace="launch_validation_test" />
+</launch>
