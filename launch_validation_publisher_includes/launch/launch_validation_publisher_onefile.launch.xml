@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <launch>
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_00.launch.xml">
+  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_all.launch.xml">
     <arg name="include_00_arg00" value="value_include_00_arg00"/>
     <arg name="include_00_arg01" value="value_include_00_arg01"/>
     <arg name="include_00_arg02" value="value_include_00_arg02"/>
@@ -101,9 +101,7 @@
     <arg name="include_00_arg97" value="value_include_00_arg97"/>
     <arg name="include_00_arg98" value="value_include_00_arg98"/>
     <arg name="include_00_arg99" value="value_include_00_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_01.launch.xml">
     <arg name="include_01_arg00" value="value_include_01_arg00"/>
     <arg name="include_01_arg01" value="value_include_01_arg01"/>
     <arg name="include_01_arg02" value="value_include_01_arg02"/>
@@ -204,9 +202,7 @@
     <arg name="include_01_arg97" value="value_include_01_arg97"/>
     <arg name="include_01_arg98" value="value_include_01_arg98"/>
     <arg name="include_01_arg99" value="value_include_01_arg99"/>
-  </include>
-
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_02.launch.xml">
+  
     <arg name="include_02_arg00" value="value_include_02_arg00"/>
     <arg name="include_02_arg01" value="value_include_02_arg01"/>
     <arg name="include_02_arg02" value="value_include_02_arg02"/>
@@ -307,9 +303,7 @@
     <arg name="include_02_arg97" value="value_include_02_arg97"/>
     <arg name="include_02_arg98" value="value_include_02_arg98"/>
     <arg name="include_02_arg99" value="value_include_02_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_03.launch.xml">
     <arg name="include_03_arg00" value="value_include_03_arg00"/>
     <arg name="include_03_arg01" value="value_include_03_arg01"/>
     <arg name="include_03_arg02" value="value_include_03_arg02"/>
@@ -410,9 +404,7 @@
     <arg name="include_03_arg97" value="value_include_03_arg97"/>
     <arg name="include_03_arg98" value="value_include_03_arg98"/>
     <arg name="include_03_arg99" value="value_include_03_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_04.launch.xml">
     <arg name="include_04_arg00" value="value_include_04_arg00"/>
     <arg name="include_04_arg01" value="value_include_04_arg01"/>
     <arg name="include_04_arg02" value="value_include_04_arg02"/>
@@ -513,9 +505,7 @@
     <arg name="include_04_arg97" value="value_include_04_arg97"/>
     <arg name="include_04_arg98" value="value_include_04_arg98"/>
     <arg name="include_04_arg99" value="value_include_04_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_05.launch.xml">
     <arg name="include_05_arg00" value="value_include_05_arg00"/>
     <arg name="include_05_arg01" value="value_include_05_arg01"/>
     <arg name="include_05_arg02" value="value_include_05_arg02"/>
@@ -616,9 +606,7 @@
     <arg name="include_05_arg97" value="value_include_05_arg97"/>
     <arg name="include_05_arg98" value="value_include_05_arg98"/>
     <arg name="include_05_arg99" value="value_include_05_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_06.launch.xml">
     <arg name="include_06_arg00" value="value_include_06_arg00"/>
     <arg name="include_06_arg01" value="value_include_06_arg01"/>
     <arg name="include_06_arg02" value="value_include_06_arg02"/>
@@ -719,9 +707,7 @@
     <arg name="include_06_arg97" value="value_include_06_arg97"/>
     <arg name="include_06_arg98" value="value_include_06_arg98"/>
     <arg name="include_06_arg99" value="value_include_06_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_07.launch.xml">
     <arg name="include_07_arg00" value="value_include_07_arg00"/>
     <arg name="include_07_arg01" value="value_include_07_arg01"/>
     <arg name="include_07_arg02" value="value_include_07_arg02"/>
@@ -822,9 +808,7 @@
     <arg name="include_07_arg97" value="value_include_07_arg97"/>
     <arg name="include_07_arg98" value="value_include_07_arg98"/>
     <arg name="include_07_arg99" value="value_include_07_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_08.launch.xml">
     <arg name="include_08_arg00" value="value_include_08_arg00"/>
     <arg name="include_08_arg01" value="value_include_08_arg01"/>
     <arg name="include_08_arg02" value="value_include_08_arg02"/>
@@ -925,9 +909,7 @@
     <arg name="include_08_arg97" value="value_include_08_arg97"/>
     <arg name="include_08_arg98" value="value_include_08_arg98"/>
     <arg name="include_08_arg99" value="value_include_08_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_09.launch.xml">
     <arg name="include_09_arg00" value="value_include_09_arg00"/>
     <arg name="include_09_arg01" value="value_include_09_arg01"/>
     <arg name="include_09_arg02" value="value_include_09_arg02"/>
@@ -1028,9 +1010,7 @@
     <arg name="include_09_arg97" value="value_include_09_arg97"/>
     <arg name="include_09_arg98" value="value_include_09_arg98"/>
     <arg name="include_09_arg99" value="value_include_09_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_10.launch.xml">
     <arg name="include_10_arg00" value="value_include_10_arg00"/>
     <arg name="include_10_arg01" value="value_include_10_arg01"/>
     <arg name="include_10_arg02" value="value_include_10_arg02"/>
@@ -1131,9 +1111,7 @@
     <arg name="include_10_arg97" value="value_include_10_arg97"/>
     <arg name="include_10_arg98" value="value_include_10_arg98"/>
     <arg name="include_10_arg99" value="value_include_10_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_11.launch.xml">
     <arg name="include_11_arg00" value="value_include_11_arg00"/>
     <arg name="include_11_arg01" value="value_include_11_arg01"/>
     <arg name="include_11_arg02" value="value_include_11_arg02"/>
@@ -1234,9 +1212,7 @@
     <arg name="include_11_arg97" value="value_include_11_arg97"/>
     <arg name="include_11_arg98" value="value_include_11_arg98"/>
     <arg name="include_11_arg99" value="value_include_11_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_12.launch.xml">
     <arg name="include_12_arg00" value="value_include_12_arg00"/>
     <arg name="include_12_arg01" value="value_include_12_arg01"/>
     <arg name="include_12_arg02" value="value_include_12_arg02"/>
@@ -1337,9 +1313,7 @@
     <arg name="include_12_arg97" value="value_include_12_arg97"/>
     <arg name="include_12_arg98" value="value_include_12_arg98"/>
     <arg name="include_12_arg99" value="value_include_12_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_13.launch.xml">
     <arg name="include_13_arg00" value="value_include_13_arg00"/>
     <arg name="include_13_arg01" value="value_include_13_arg01"/>
     <arg name="include_13_arg02" value="value_include_13_arg02"/>
@@ -1440,9 +1414,7 @@
     <arg name="include_13_arg97" value="value_include_13_arg97"/>
     <arg name="include_13_arg98" value="value_include_13_arg98"/>
     <arg name="include_13_arg99" value="value_include_13_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_14.launch.xml">
     <arg name="include_14_arg00" value="value_include_14_arg00"/>
     <arg name="include_14_arg01" value="value_include_14_arg01"/>
     <arg name="include_14_arg02" value="value_include_14_arg02"/>
@@ -1543,9 +1515,7 @@
     <arg name="include_14_arg97" value="value_include_14_arg97"/>
     <arg name="include_14_arg98" value="value_include_14_arg98"/>
     <arg name="include_14_arg99" value="value_include_14_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_15.launch.xml">
     <arg name="include_15_arg00" value="value_include_15_arg00"/>
     <arg name="include_15_arg01" value="value_include_15_arg01"/>
     <arg name="include_15_arg02" value="value_include_15_arg02"/>
@@ -1646,9 +1616,7 @@
     <arg name="include_15_arg97" value="value_include_15_arg97"/>
     <arg name="include_15_arg98" value="value_include_15_arg98"/>
     <arg name="include_15_arg99" value="value_include_15_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_16.launch.xml">
     <arg name="include_16_arg00" value="value_include_16_arg00"/>
     <arg name="include_16_arg01" value="value_include_16_arg01"/>
     <arg name="include_16_arg02" value="value_include_16_arg02"/>
@@ -1749,9 +1717,7 @@
     <arg name="include_16_arg97" value="value_include_16_arg97"/>
     <arg name="include_16_arg98" value="value_include_16_arg98"/>
     <arg name="include_16_arg99" value="value_include_16_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_17.launch.xml">
     <arg name="include_17_arg00" value="value_include_17_arg00"/>
     <arg name="include_17_arg01" value="value_include_17_arg01"/>
     <arg name="include_17_arg02" value="value_include_17_arg02"/>
@@ -1852,9 +1818,7 @@
     <arg name="include_17_arg97" value="value_include_17_arg97"/>
     <arg name="include_17_arg98" value="value_include_17_arg98"/>
     <arg name="include_17_arg99" value="value_include_17_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_18.launch.xml">
     <arg name="include_18_arg00" value="value_include_18_arg00"/>
     <arg name="include_18_arg01" value="value_include_18_arg01"/>
     <arg name="include_18_arg02" value="value_include_18_arg02"/>
@@ -1955,9 +1919,7 @@
     <arg name="include_18_arg97" value="value_include_18_arg97"/>
     <arg name="include_18_arg98" value="value_include_18_arg98"/>
     <arg name="include_18_arg99" value="value_include_18_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_19.launch.xml">
     <arg name="include_19_arg00" value="value_include_19_arg00"/>
     <arg name="include_19_arg01" value="value_include_19_arg01"/>
     <arg name="include_19_arg02" value="value_include_19_arg02"/>
@@ -2058,9 +2020,7 @@
     <arg name="include_19_arg97" value="value_include_19_arg97"/>
     <arg name="include_19_arg98" value="value_include_19_arg98"/>
     <arg name="include_19_arg99" value="value_include_19_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_20.launch.xml">
     <arg name="include_20_arg00" value="value_include_20_arg00"/>
     <arg name="include_20_arg01" value="value_include_20_arg01"/>
     <arg name="include_20_arg02" value="value_include_20_arg02"/>
@@ -2161,9 +2121,7 @@
     <arg name="include_20_arg97" value="value_include_20_arg97"/>
     <arg name="include_20_arg98" value="value_include_20_arg98"/>
     <arg name="include_20_arg99" value="value_include_20_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_21.launch.xml">
     <arg name="include_21_arg00" value="value_include_21_arg00"/>
     <arg name="include_21_arg01" value="value_include_21_arg01"/>
     <arg name="include_21_arg02" value="value_include_21_arg02"/>
@@ -2264,9 +2222,7 @@
     <arg name="include_21_arg97" value="value_include_21_arg97"/>
     <arg name="include_21_arg98" value="value_include_21_arg98"/>
     <arg name="include_21_arg99" value="value_include_21_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_22.launch.xml">
     <arg name="include_22_arg00" value="value_include_22_arg00"/>
     <arg name="include_22_arg01" value="value_include_22_arg01"/>
     <arg name="include_22_arg02" value="value_include_22_arg02"/>
@@ -2367,9 +2323,7 @@
     <arg name="include_22_arg97" value="value_include_22_arg97"/>
     <arg name="include_22_arg98" value="value_include_22_arg98"/>
     <arg name="include_22_arg99" value="value_include_22_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_23.launch.xml">
     <arg name="include_23_arg00" value="value_include_23_arg00"/>
     <arg name="include_23_arg01" value="value_include_23_arg01"/>
     <arg name="include_23_arg02" value="value_include_23_arg02"/>
@@ -2470,9 +2424,7 @@
     <arg name="include_23_arg97" value="value_include_23_arg97"/>
     <arg name="include_23_arg98" value="value_include_23_arg98"/>
     <arg name="include_23_arg99" value="value_include_23_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_24.launch.xml">
     <arg name="include_24_arg00" value="value_include_24_arg00"/>
     <arg name="include_24_arg01" value="value_include_24_arg01"/>
     <arg name="include_24_arg02" value="value_include_24_arg02"/>
@@ -2573,9 +2525,7 @@
     <arg name="include_24_arg97" value="value_include_24_arg97"/>
     <arg name="include_24_arg98" value="value_include_24_arg98"/>
     <arg name="include_24_arg99" value="value_include_24_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_25.launch.xml">
     <arg name="include_25_arg00" value="value_include_25_arg00"/>
     <arg name="include_25_arg01" value="value_include_25_arg01"/>
     <arg name="include_25_arg02" value="value_include_25_arg02"/>
@@ -2676,9 +2626,7 @@
     <arg name="include_25_arg97" value="value_include_25_arg97"/>
     <arg name="include_25_arg98" value="value_include_25_arg98"/>
     <arg name="include_25_arg99" value="value_include_25_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_26.launch.xml">
     <arg name="include_26_arg00" value="value_include_26_arg00"/>
     <arg name="include_26_arg01" value="value_include_26_arg01"/>
     <arg name="include_26_arg02" value="value_include_26_arg02"/>
@@ -2779,9 +2727,7 @@
     <arg name="include_26_arg97" value="value_include_26_arg97"/>
     <arg name="include_26_arg98" value="value_include_26_arg98"/>
     <arg name="include_26_arg99" value="value_include_26_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_27.launch.xml">
     <arg name="include_27_arg00" value="value_include_27_arg00"/>
     <arg name="include_27_arg01" value="value_include_27_arg01"/>
     <arg name="include_27_arg02" value="value_include_27_arg02"/>
@@ -2882,9 +2828,7 @@
     <arg name="include_27_arg97" value="value_include_27_arg97"/>
     <arg name="include_27_arg98" value="value_include_27_arg98"/>
     <arg name="include_27_arg99" value="value_include_27_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_28.launch.xml">
     <arg name="include_28_arg00" value="value_include_28_arg00"/>
     <arg name="include_28_arg01" value="value_include_28_arg01"/>
     <arg name="include_28_arg02" value="value_include_28_arg02"/>
@@ -2985,9 +2929,7 @@
     <arg name="include_28_arg97" value="value_include_28_arg97"/>
     <arg name="include_28_arg98" value="value_include_28_arg98"/>
     <arg name="include_28_arg99" value="value_include_28_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_29.launch.xml">
     <arg name="include_29_arg00" value="value_include_29_arg00"/>
     <arg name="include_29_arg01" value="value_include_29_arg01"/>
     <arg name="include_29_arg02" value="value_include_29_arg02"/>
@@ -3088,9 +3030,7 @@
     <arg name="include_29_arg97" value="value_include_29_arg97"/>
     <arg name="include_29_arg98" value="value_include_29_arg98"/>
     <arg name="include_29_arg99" value="value_include_29_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_30.launch.xml">
     <arg name="include_30_arg00" value="value_include_30_arg00"/>
     <arg name="include_30_arg01" value="value_include_30_arg01"/>
     <arg name="include_30_arg02" value="value_include_30_arg02"/>
@@ -3191,9 +3131,7 @@
     <arg name="include_30_arg97" value="value_include_30_arg97"/>
     <arg name="include_30_arg98" value="value_include_30_arg98"/>
     <arg name="include_30_arg99" value="value_include_30_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_31.launch.xml">
     <arg name="include_31_arg00" value="value_include_31_arg00"/>
     <arg name="include_31_arg01" value="value_include_31_arg01"/>
     <arg name="include_31_arg02" value="value_include_31_arg02"/>
@@ -3294,9 +3232,7 @@
     <arg name="include_31_arg97" value="value_include_31_arg97"/>
     <arg name="include_31_arg98" value="value_include_31_arg98"/>
     <arg name="include_31_arg99" value="value_include_31_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_32.launch.xml">
     <arg name="include_32_arg00" value="value_include_32_arg00"/>
     <arg name="include_32_arg01" value="value_include_32_arg01"/>
     <arg name="include_32_arg02" value="value_include_32_arg02"/>
@@ -3397,9 +3333,7 @@
     <arg name="include_32_arg97" value="value_include_32_arg97"/>
     <arg name="include_32_arg98" value="value_include_32_arg98"/>
     <arg name="include_32_arg99" value="value_include_32_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_33.launch.xml">
     <arg name="include_33_arg00" value="value_include_33_arg00"/>
     <arg name="include_33_arg01" value="value_include_33_arg01"/>
     <arg name="include_33_arg02" value="value_include_33_arg02"/>
@@ -3500,9 +3434,7 @@
     <arg name="include_33_arg97" value="value_include_33_arg97"/>
     <arg name="include_33_arg98" value="value_include_33_arg98"/>
     <arg name="include_33_arg99" value="value_include_33_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_34.launch.xml">
     <arg name="include_34_arg00" value="value_include_34_arg00"/>
     <arg name="include_34_arg01" value="value_include_34_arg01"/>
     <arg name="include_34_arg02" value="value_include_34_arg02"/>
@@ -3603,9 +3535,7 @@
     <arg name="include_34_arg97" value="value_include_34_arg97"/>
     <arg name="include_34_arg98" value="value_include_34_arg98"/>
     <arg name="include_34_arg99" value="value_include_34_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_35.launch.xml">
     <arg name="include_35_arg00" value="value_include_35_arg00"/>
     <arg name="include_35_arg01" value="value_include_35_arg01"/>
     <arg name="include_35_arg02" value="value_include_35_arg02"/>
@@ -3706,9 +3636,7 @@
     <arg name="include_35_arg97" value="value_include_35_arg97"/>
     <arg name="include_35_arg98" value="value_include_35_arg98"/>
     <arg name="include_35_arg99" value="value_include_35_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_36.launch.xml">
     <arg name="include_36_arg00" value="value_include_36_arg00"/>
     <arg name="include_36_arg01" value="value_include_36_arg01"/>
     <arg name="include_36_arg02" value="value_include_36_arg02"/>
@@ -3809,9 +3737,7 @@
     <arg name="include_36_arg97" value="value_include_36_arg97"/>
     <arg name="include_36_arg98" value="value_include_36_arg98"/>
     <arg name="include_36_arg99" value="value_include_36_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_37.launch.xml">
     <arg name="include_37_arg00" value="value_include_37_arg00"/>
     <arg name="include_37_arg01" value="value_include_37_arg01"/>
     <arg name="include_37_arg02" value="value_include_37_arg02"/>
@@ -3912,9 +3838,7 @@
     <arg name="include_37_arg97" value="value_include_37_arg97"/>
     <arg name="include_37_arg98" value="value_include_37_arg98"/>
     <arg name="include_37_arg99" value="value_include_37_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_38.launch.xml">
     <arg name="include_38_arg00" value="value_include_38_arg00"/>
     <arg name="include_38_arg01" value="value_include_38_arg01"/>
     <arg name="include_38_arg02" value="value_include_38_arg02"/>
@@ -4015,9 +3939,7 @@
     <arg name="include_38_arg97" value="value_include_38_arg97"/>
     <arg name="include_38_arg98" value="value_include_38_arg98"/>
     <arg name="include_38_arg99" value="value_include_38_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_39.launch.xml">
     <arg name="include_39_arg00" value="value_include_39_arg00"/>
     <arg name="include_39_arg01" value="value_include_39_arg01"/>
     <arg name="include_39_arg02" value="value_include_39_arg02"/>
@@ -4118,9 +4040,7 @@
     <arg name="include_39_arg97" value="value_include_39_arg97"/>
     <arg name="include_39_arg98" value="value_include_39_arg98"/>
     <arg name="include_39_arg99" value="value_include_39_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_40.launch.xml">
     <arg name="include_40_arg00" value="value_include_40_arg00"/>
     <arg name="include_40_arg01" value="value_include_40_arg01"/>
     <arg name="include_40_arg02" value="value_include_40_arg02"/>
@@ -4221,9 +4141,7 @@
     <arg name="include_40_arg97" value="value_include_40_arg97"/>
     <arg name="include_40_arg98" value="value_include_40_arg98"/>
     <arg name="include_40_arg99" value="value_include_40_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_41.launch.xml">
     <arg name="include_41_arg00" value="value_include_41_arg00"/>
     <arg name="include_41_arg01" value="value_include_41_arg01"/>
     <arg name="include_41_arg02" value="value_include_41_arg02"/>
@@ -4324,9 +4242,7 @@
     <arg name="include_41_arg97" value="value_include_41_arg97"/>
     <arg name="include_41_arg98" value="value_include_41_arg98"/>
     <arg name="include_41_arg99" value="value_include_41_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_42.launch.xml">
     <arg name="include_42_arg00" value="value_include_42_arg00"/>
     <arg name="include_42_arg01" value="value_include_42_arg01"/>
     <arg name="include_42_arg02" value="value_include_42_arg02"/>
@@ -4427,9 +4343,7 @@
     <arg name="include_42_arg97" value="value_include_42_arg97"/>
     <arg name="include_42_arg98" value="value_include_42_arg98"/>
     <arg name="include_42_arg99" value="value_include_42_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_43.launch.xml">
     <arg name="include_43_arg00" value="value_include_43_arg00"/>
     <arg name="include_43_arg01" value="value_include_43_arg01"/>
     <arg name="include_43_arg02" value="value_include_43_arg02"/>
@@ -4530,9 +4444,7 @@
     <arg name="include_43_arg97" value="value_include_43_arg97"/>
     <arg name="include_43_arg98" value="value_include_43_arg98"/>
     <arg name="include_43_arg99" value="value_include_43_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_44.launch.xml">
     <arg name="include_44_arg00" value="value_include_44_arg00"/>
     <arg name="include_44_arg01" value="value_include_44_arg01"/>
     <arg name="include_44_arg02" value="value_include_44_arg02"/>
@@ -4633,9 +4545,7 @@
     <arg name="include_44_arg97" value="value_include_44_arg97"/>
     <arg name="include_44_arg98" value="value_include_44_arg98"/>
     <arg name="include_44_arg99" value="value_include_44_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_45.launch.xml">
     <arg name="include_45_arg00" value="value_include_45_arg00"/>
     <arg name="include_45_arg01" value="value_include_45_arg01"/>
     <arg name="include_45_arg02" value="value_include_45_arg02"/>
@@ -4736,9 +4646,7 @@
     <arg name="include_45_arg97" value="value_include_45_arg97"/>
     <arg name="include_45_arg98" value="value_include_45_arg98"/>
     <arg name="include_45_arg99" value="value_include_45_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_46.launch.xml">
     <arg name="include_46_arg00" value="value_include_46_arg00"/>
     <arg name="include_46_arg01" value="value_include_46_arg01"/>
     <arg name="include_46_arg02" value="value_include_46_arg02"/>
@@ -4839,9 +4747,7 @@
     <arg name="include_46_arg97" value="value_include_46_arg97"/>
     <arg name="include_46_arg98" value="value_include_46_arg98"/>
     <arg name="include_46_arg99" value="value_include_46_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_47.launch.xml">
     <arg name="include_47_arg00" value="value_include_47_arg00"/>
     <arg name="include_47_arg01" value="value_include_47_arg01"/>
     <arg name="include_47_arg02" value="value_include_47_arg02"/>
@@ -4942,9 +4848,7 @@
     <arg name="include_47_arg97" value="value_include_47_arg97"/>
     <arg name="include_47_arg98" value="value_include_47_arg98"/>
     <arg name="include_47_arg99" value="value_include_47_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_48.launch.xml">
     <arg name="include_48_arg00" value="value_include_48_arg00"/>
     <arg name="include_48_arg01" value="value_include_48_arg01"/>
     <arg name="include_48_arg02" value="value_include_48_arg02"/>
@@ -5045,9 +4949,7 @@
     <arg name="include_48_arg97" value="value_include_48_arg97"/>
     <arg name="include_48_arg98" value="value_include_48_arg98"/>
     <arg name="include_48_arg99" value="value_include_48_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_49.launch.xml">
     <arg name="include_49_arg00" value="value_include_49_arg00"/>
     <arg name="include_49_arg01" value="value_include_49_arg01"/>
     <arg name="include_49_arg02" value="value_include_49_arg02"/>
@@ -5148,9 +5050,7 @@
     <arg name="include_49_arg97" value="value_include_49_arg97"/>
     <arg name="include_49_arg98" value="value_include_49_arg98"/>
     <arg name="include_49_arg99" value="value_include_49_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_50.launch.xml">
     <arg name="include_50_arg00" value="value_include_50_arg00"/>
     <arg name="include_50_arg01" value="value_include_50_arg01"/>
     <arg name="include_50_arg02" value="value_include_50_arg02"/>
@@ -5251,9 +5151,7 @@
     <arg name="include_50_arg97" value="value_include_50_arg97"/>
     <arg name="include_50_arg98" value="value_include_50_arg98"/>
     <arg name="include_50_arg99" value="value_include_50_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_51.launch.xml">
     <arg name="include_51_arg00" value="value_include_51_arg00"/>
     <arg name="include_51_arg01" value="value_include_51_arg01"/>
     <arg name="include_51_arg02" value="value_include_51_arg02"/>
@@ -5354,9 +5252,7 @@
     <arg name="include_51_arg97" value="value_include_51_arg97"/>
     <arg name="include_51_arg98" value="value_include_51_arg98"/>
     <arg name="include_51_arg99" value="value_include_51_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_52.launch.xml">
     <arg name="include_52_arg00" value="value_include_52_arg00"/>
     <arg name="include_52_arg01" value="value_include_52_arg01"/>
     <arg name="include_52_arg02" value="value_include_52_arg02"/>
@@ -5457,9 +5353,7 @@
     <arg name="include_52_arg97" value="value_include_52_arg97"/>
     <arg name="include_52_arg98" value="value_include_52_arg98"/>
     <arg name="include_52_arg99" value="value_include_52_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_53.launch.xml">
     <arg name="include_53_arg00" value="value_include_53_arg00"/>
     <arg name="include_53_arg01" value="value_include_53_arg01"/>
     <arg name="include_53_arg02" value="value_include_53_arg02"/>
@@ -5560,9 +5454,7 @@
     <arg name="include_53_arg97" value="value_include_53_arg97"/>
     <arg name="include_53_arg98" value="value_include_53_arg98"/>
     <arg name="include_53_arg99" value="value_include_53_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_54.launch.xml">
     <arg name="include_54_arg00" value="value_include_54_arg00"/>
     <arg name="include_54_arg01" value="value_include_54_arg01"/>
     <arg name="include_54_arg02" value="value_include_54_arg02"/>
@@ -5663,9 +5555,7 @@
     <arg name="include_54_arg97" value="value_include_54_arg97"/>
     <arg name="include_54_arg98" value="value_include_54_arg98"/>
     <arg name="include_54_arg99" value="value_include_54_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_55.launch.xml">
     <arg name="include_55_arg00" value="value_include_55_arg00"/>
     <arg name="include_55_arg01" value="value_include_55_arg01"/>
     <arg name="include_55_arg02" value="value_include_55_arg02"/>
@@ -5766,9 +5656,7 @@
     <arg name="include_55_arg97" value="value_include_55_arg97"/>
     <arg name="include_55_arg98" value="value_include_55_arg98"/>
     <arg name="include_55_arg99" value="value_include_55_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_56.launch.xml">
     <arg name="include_56_arg00" value="value_include_56_arg00"/>
     <arg name="include_56_arg01" value="value_include_56_arg01"/>
     <arg name="include_56_arg02" value="value_include_56_arg02"/>
@@ -5869,9 +5757,7 @@
     <arg name="include_56_arg97" value="value_include_56_arg97"/>
     <arg name="include_56_arg98" value="value_include_56_arg98"/>
     <arg name="include_56_arg99" value="value_include_56_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_57.launch.xml">
     <arg name="include_57_arg00" value="value_include_57_arg00"/>
     <arg name="include_57_arg01" value="value_include_57_arg01"/>
     <arg name="include_57_arg02" value="value_include_57_arg02"/>
@@ -5972,9 +5858,7 @@
     <arg name="include_57_arg97" value="value_include_57_arg97"/>
     <arg name="include_57_arg98" value="value_include_57_arg98"/>
     <arg name="include_57_arg99" value="value_include_57_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_58.launch.xml">
     <arg name="include_58_arg00" value="value_include_58_arg00"/>
     <arg name="include_58_arg01" value="value_include_58_arg01"/>
     <arg name="include_58_arg02" value="value_include_58_arg02"/>
@@ -6075,9 +5959,7 @@
     <arg name="include_58_arg97" value="value_include_58_arg97"/>
     <arg name="include_58_arg98" value="value_include_58_arg98"/>
     <arg name="include_58_arg99" value="value_include_58_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_59.launch.xml">
     <arg name="include_59_arg00" value="value_include_59_arg00"/>
     <arg name="include_59_arg01" value="value_include_59_arg01"/>
     <arg name="include_59_arg02" value="value_include_59_arg02"/>
@@ -6178,9 +6060,7 @@
     <arg name="include_59_arg97" value="value_include_59_arg97"/>
     <arg name="include_59_arg98" value="value_include_59_arg98"/>
     <arg name="include_59_arg99" value="value_include_59_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_60.launch.xml">
     <arg name="include_60_arg00" value="value_include_60_arg00"/>
     <arg name="include_60_arg01" value="value_include_60_arg01"/>
     <arg name="include_60_arg02" value="value_include_60_arg02"/>
@@ -6281,9 +6161,7 @@
     <arg name="include_60_arg97" value="value_include_60_arg97"/>
     <arg name="include_60_arg98" value="value_include_60_arg98"/>
     <arg name="include_60_arg99" value="value_include_60_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_61.launch.xml">
     <arg name="include_61_arg00" value="value_include_61_arg00"/>
     <arg name="include_61_arg01" value="value_include_61_arg01"/>
     <arg name="include_61_arg02" value="value_include_61_arg02"/>
@@ -6384,9 +6262,7 @@
     <arg name="include_61_arg97" value="value_include_61_arg97"/>
     <arg name="include_61_arg98" value="value_include_61_arg98"/>
     <arg name="include_61_arg99" value="value_include_61_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_62.launch.xml">
     <arg name="include_62_arg00" value="value_include_62_arg00"/>
     <arg name="include_62_arg01" value="value_include_62_arg01"/>
     <arg name="include_62_arg02" value="value_include_62_arg02"/>
@@ -6487,9 +6363,7 @@
     <arg name="include_62_arg97" value="value_include_62_arg97"/>
     <arg name="include_62_arg98" value="value_include_62_arg98"/>
     <arg name="include_62_arg99" value="value_include_62_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_63.launch.xml">
     <arg name="include_63_arg00" value="value_include_63_arg00"/>
     <arg name="include_63_arg01" value="value_include_63_arg01"/>
     <arg name="include_63_arg02" value="value_include_63_arg02"/>
@@ -6590,9 +6464,7 @@
     <arg name="include_63_arg97" value="value_include_63_arg97"/>
     <arg name="include_63_arg98" value="value_include_63_arg98"/>
     <arg name="include_63_arg99" value="value_include_63_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_64.launch.xml">
     <arg name="include_64_arg00" value="value_include_64_arg00"/>
     <arg name="include_64_arg01" value="value_include_64_arg01"/>
     <arg name="include_64_arg02" value="value_include_64_arg02"/>
@@ -6693,9 +6565,7 @@
     <arg name="include_64_arg97" value="value_include_64_arg97"/>
     <arg name="include_64_arg98" value="value_include_64_arg98"/>
     <arg name="include_64_arg99" value="value_include_64_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_65.launch.xml">
     <arg name="include_65_arg00" value="value_include_65_arg00"/>
     <arg name="include_65_arg01" value="value_include_65_arg01"/>
     <arg name="include_65_arg02" value="value_include_65_arg02"/>
@@ -6796,9 +6666,7 @@
     <arg name="include_65_arg97" value="value_include_65_arg97"/>
     <arg name="include_65_arg98" value="value_include_65_arg98"/>
     <arg name="include_65_arg99" value="value_include_65_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_66.launch.xml">
     <arg name="include_66_arg00" value="value_include_66_arg00"/>
     <arg name="include_66_arg01" value="value_include_66_arg01"/>
     <arg name="include_66_arg02" value="value_include_66_arg02"/>
@@ -6899,9 +6767,7 @@
     <arg name="include_66_arg97" value="value_include_66_arg97"/>
     <arg name="include_66_arg98" value="value_include_66_arg98"/>
     <arg name="include_66_arg99" value="value_include_66_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_67.launch.xml">
     <arg name="include_67_arg00" value="value_include_67_arg00"/>
     <arg name="include_67_arg01" value="value_include_67_arg01"/>
     <arg name="include_67_arg02" value="value_include_67_arg02"/>
@@ -7002,9 +6868,7 @@
     <arg name="include_67_arg97" value="value_include_67_arg97"/>
     <arg name="include_67_arg98" value="value_include_67_arg98"/>
     <arg name="include_67_arg99" value="value_include_67_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_68.launch.xml">
     <arg name="include_68_arg00" value="value_include_68_arg00"/>
     <arg name="include_68_arg01" value="value_include_68_arg01"/>
     <arg name="include_68_arg02" value="value_include_68_arg02"/>
@@ -7105,9 +6969,7 @@
     <arg name="include_68_arg97" value="value_include_68_arg97"/>
     <arg name="include_68_arg98" value="value_include_68_arg98"/>
     <arg name="include_68_arg99" value="value_include_68_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_69.launch.xml">
     <arg name="include_69_arg00" value="value_include_69_arg00"/>
     <arg name="include_69_arg01" value="value_include_69_arg01"/>
     <arg name="include_69_arg02" value="value_include_69_arg02"/>
@@ -7208,9 +7070,7 @@
     <arg name="include_69_arg97" value="value_include_69_arg97"/>
     <arg name="include_69_arg98" value="value_include_69_arg98"/>
     <arg name="include_69_arg99" value="value_include_69_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_70.launch.xml">
     <arg name="include_70_arg00" value="value_include_70_arg00"/>
     <arg name="include_70_arg01" value="value_include_70_arg01"/>
     <arg name="include_70_arg02" value="value_include_70_arg02"/>
@@ -7311,9 +7171,7 @@
     <arg name="include_70_arg97" value="value_include_70_arg97"/>
     <arg name="include_70_arg98" value="value_include_70_arg98"/>
     <arg name="include_70_arg99" value="value_include_70_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_71.launch.xml">
     <arg name="include_71_arg00" value="value_include_71_arg00"/>
     <arg name="include_71_arg01" value="value_include_71_arg01"/>
     <arg name="include_71_arg02" value="value_include_71_arg02"/>
@@ -7414,9 +7272,7 @@
     <arg name="include_71_arg97" value="value_include_71_arg97"/>
     <arg name="include_71_arg98" value="value_include_71_arg98"/>
     <arg name="include_71_arg99" value="value_include_71_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_72.launch.xml">
     <arg name="include_72_arg00" value="value_include_72_arg00"/>
     <arg name="include_72_arg01" value="value_include_72_arg01"/>
     <arg name="include_72_arg02" value="value_include_72_arg02"/>
@@ -7517,9 +7373,7 @@
     <arg name="include_72_arg97" value="value_include_72_arg97"/>
     <arg name="include_72_arg98" value="value_include_72_arg98"/>
     <arg name="include_72_arg99" value="value_include_72_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_73.launch.xml">
     <arg name="include_73_arg00" value="value_include_73_arg00"/>
     <arg name="include_73_arg01" value="value_include_73_arg01"/>
     <arg name="include_73_arg02" value="value_include_73_arg02"/>
@@ -7620,9 +7474,7 @@
     <arg name="include_73_arg97" value="value_include_73_arg97"/>
     <arg name="include_73_arg98" value="value_include_73_arg98"/>
     <arg name="include_73_arg99" value="value_include_73_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_74.launch.xml">
     <arg name="include_74_arg00" value="value_include_74_arg00"/>
     <arg name="include_74_arg01" value="value_include_74_arg01"/>
     <arg name="include_74_arg02" value="value_include_74_arg02"/>
@@ -7723,9 +7575,7 @@
     <arg name="include_74_arg97" value="value_include_74_arg97"/>
     <arg name="include_74_arg98" value="value_include_74_arg98"/>
     <arg name="include_74_arg99" value="value_include_74_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_75.launch.xml">
     <arg name="include_75_arg00" value="value_include_75_arg00"/>
     <arg name="include_75_arg01" value="value_include_75_arg01"/>
     <arg name="include_75_arg02" value="value_include_75_arg02"/>
@@ -7826,9 +7676,7 @@
     <arg name="include_75_arg97" value="value_include_75_arg97"/>
     <arg name="include_75_arg98" value="value_include_75_arg98"/>
     <arg name="include_75_arg99" value="value_include_75_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_76.launch.xml">
     <arg name="include_76_arg00" value="value_include_76_arg00"/>
     <arg name="include_76_arg01" value="value_include_76_arg01"/>
     <arg name="include_76_arg02" value="value_include_76_arg02"/>
@@ -7929,9 +7777,7 @@
     <arg name="include_76_arg97" value="value_include_76_arg97"/>
     <arg name="include_76_arg98" value="value_include_76_arg98"/>
     <arg name="include_76_arg99" value="value_include_76_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_77.launch.xml">
     <arg name="include_77_arg00" value="value_include_77_arg00"/>
     <arg name="include_77_arg01" value="value_include_77_arg01"/>
     <arg name="include_77_arg02" value="value_include_77_arg02"/>
@@ -8032,9 +7878,7 @@
     <arg name="include_77_arg97" value="value_include_77_arg97"/>
     <arg name="include_77_arg98" value="value_include_77_arg98"/>
     <arg name="include_77_arg99" value="value_include_77_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_78.launch.xml">
     <arg name="include_78_arg00" value="value_include_78_arg00"/>
     <arg name="include_78_arg01" value="value_include_78_arg01"/>
     <arg name="include_78_arg02" value="value_include_78_arg02"/>
@@ -8135,9 +7979,7 @@
     <arg name="include_78_arg97" value="value_include_78_arg97"/>
     <arg name="include_78_arg98" value="value_include_78_arg98"/>
     <arg name="include_78_arg99" value="value_include_78_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_79.launch.xml">
     <arg name="include_79_arg00" value="value_include_79_arg00"/>
     <arg name="include_79_arg01" value="value_include_79_arg01"/>
     <arg name="include_79_arg02" value="value_include_79_arg02"/>
@@ -8238,9 +8080,7 @@
     <arg name="include_79_arg97" value="value_include_79_arg97"/>
     <arg name="include_79_arg98" value="value_include_79_arg98"/>
     <arg name="include_79_arg99" value="value_include_79_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_80.launch.xml">
     <arg name="include_80_arg00" value="value_include_80_arg00"/>
     <arg name="include_80_arg01" value="value_include_80_arg01"/>
     <arg name="include_80_arg02" value="value_include_80_arg02"/>
@@ -8341,9 +8181,7 @@
     <arg name="include_80_arg97" value="value_include_80_arg97"/>
     <arg name="include_80_arg98" value="value_include_80_arg98"/>
     <arg name="include_80_arg99" value="value_include_80_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_81.launch.xml">
     <arg name="include_81_arg00" value="value_include_81_arg00"/>
     <arg name="include_81_arg01" value="value_include_81_arg01"/>
     <arg name="include_81_arg02" value="value_include_81_arg02"/>
@@ -8444,9 +8282,7 @@
     <arg name="include_81_arg97" value="value_include_81_arg97"/>
     <arg name="include_81_arg98" value="value_include_81_arg98"/>
     <arg name="include_81_arg99" value="value_include_81_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_82.launch.xml">
     <arg name="include_82_arg00" value="value_include_82_arg00"/>
     <arg name="include_82_arg01" value="value_include_82_arg01"/>
     <arg name="include_82_arg02" value="value_include_82_arg02"/>
@@ -8547,9 +8383,7 @@
     <arg name="include_82_arg97" value="value_include_82_arg97"/>
     <arg name="include_82_arg98" value="value_include_82_arg98"/>
     <arg name="include_82_arg99" value="value_include_82_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_83.launch.xml">
     <arg name="include_83_arg00" value="value_include_83_arg00"/>
     <arg name="include_83_arg01" value="value_include_83_arg01"/>
     <arg name="include_83_arg02" value="value_include_83_arg02"/>
@@ -8650,9 +8484,7 @@
     <arg name="include_83_arg97" value="value_include_83_arg97"/>
     <arg name="include_83_arg98" value="value_include_83_arg98"/>
     <arg name="include_83_arg99" value="value_include_83_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_84.launch.xml">
     <arg name="include_84_arg00" value="value_include_84_arg00"/>
     <arg name="include_84_arg01" value="value_include_84_arg01"/>
     <arg name="include_84_arg02" value="value_include_84_arg02"/>
@@ -8753,9 +8585,7 @@
     <arg name="include_84_arg97" value="value_include_84_arg97"/>
     <arg name="include_84_arg98" value="value_include_84_arg98"/>
     <arg name="include_84_arg99" value="value_include_84_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_85.launch.xml">
     <arg name="include_85_arg00" value="value_include_85_arg00"/>
     <arg name="include_85_arg01" value="value_include_85_arg01"/>
     <arg name="include_85_arg02" value="value_include_85_arg02"/>
@@ -8856,9 +8686,7 @@
     <arg name="include_85_arg97" value="value_include_85_arg97"/>
     <arg name="include_85_arg98" value="value_include_85_arg98"/>
     <arg name="include_85_arg99" value="value_include_85_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_86.launch.xml">
     <arg name="include_86_arg00" value="value_include_86_arg00"/>
     <arg name="include_86_arg01" value="value_include_86_arg01"/>
     <arg name="include_86_arg02" value="value_include_86_arg02"/>
@@ -8959,9 +8787,7 @@
     <arg name="include_86_arg97" value="value_include_86_arg97"/>
     <arg name="include_86_arg98" value="value_include_86_arg98"/>
     <arg name="include_86_arg99" value="value_include_86_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_87.launch.xml">
     <arg name="include_87_arg00" value="value_include_87_arg00"/>
     <arg name="include_87_arg01" value="value_include_87_arg01"/>
     <arg name="include_87_arg02" value="value_include_87_arg02"/>
@@ -9062,9 +8888,7 @@
     <arg name="include_87_arg97" value="value_include_87_arg97"/>
     <arg name="include_87_arg98" value="value_include_87_arg98"/>
     <arg name="include_87_arg99" value="value_include_87_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_88.launch.xml">
     <arg name="include_88_arg00" value="value_include_88_arg00"/>
     <arg name="include_88_arg01" value="value_include_88_arg01"/>
     <arg name="include_88_arg02" value="value_include_88_arg02"/>
@@ -9165,9 +8989,7 @@
     <arg name="include_88_arg97" value="value_include_88_arg97"/>
     <arg name="include_88_arg98" value="value_include_88_arg98"/>
     <arg name="include_88_arg99" value="value_include_88_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_89.launch.xml">
     <arg name="include_89_arg00" value="value_include_89_arg00"/>
     <arg name="include_89_arg01" value="value_include_89_arg01"/>
     <arg name="include_89_arg02" value="value_include_89_arg02"/>
@@ -9268,9 +9090,7 @@
     <arg name="include_89_arg97" value="value_include_89_arg97"/>
     <arg name="include_89_arg98" value="value_include_89_arg98"/>
     <arg name="include_89_arg99" value="value_include_89_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_90.launch.xml">
     <arg name="include_90_arg00" value="value_include_90_arg00"/>
     <arg name="include_90_arg01" value="value_include_90_arg01"/>
     <arg name="include_90_arg02" value="value_include_90_arg02"/>
@@ -9371,9 +9191,7 @@
     <arg name="include_90_arg97" value="value_include_90_arg97"/>
     <arg name="include_90_arg98" value="value_include_90_arg98"/>
     <arg name="include_90_arg99" value="value_include_90_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_91.launch.xml">
     <arg name="include_91_arg00" value="value_include_91_arg00"/>
     <arg name="include_91_arg01" value="value_include_91_arg01"/>
     <arg name="include_91_arg02" value="value_include_91_arg02"/>
@@ -9474,9 +9292,7 @@
     <arg name="include_91_arg97" value="value_include_91_arg97"/>
     <arg name="include_91_arg98" value="value_include_91_arg98"/>
     <arg name="include_91_arg99" value="value_include_91_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_92.launch.xml">
     <arg name="include_92_arg00" value="value_include_92_arg00"/>
     <arg name="include_92_arg01" value="value_include_92_arg01"/>
     <arg name="include_92_arg02" value="value_include_92_arg02"/>
@@ -9577,9 +9393,7 @@
     <arg name="include_92_arg97" value="value_include_92_arg97"/>
     <arg name="include_92_arg98" value="value_include_92_arg98"/>
     <arg name="include_92_arg99" value="value_include_92_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_93.launch.xml">
     <arg name="include_93_arg00" value="value_include_93_arg00"/>
     <arg name="include_93_arg01" value="value_include_93_arg01"/>
     <arg name="include_93_arg02" value="value_include_93_arg02"/>
@@ -9680,9 +9494,7 @@
     <arg name="include_93_arg97" value="value_include_93_arg97"/>
     <arg name="include_93_arg98" value="value_include_93_arg98"/>
     <arg name="include_93_arg99" value="value_include_93_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_94.launch.xml">
     <arg name="include_94_arg00" value="value_include_94_arg00"/>
     <arg name="include_94_arg01" value="value_include_94_arg01"/>
     <arg name="include_94_arg02" value="value_include_94_arg02"/>
@@ -9783,9 +9595,7 @@
     <arg name="include_94_arg97" value="value_include_94_arg97"/>
     <arg name="include_94_arg98" value="value_include_94_arg98"/>
     <arg name="include_94_arg99" value="value_include_94_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_95.launch.xml">
     <arg name="include_95_arg00" value="value_include_95_arg00"/>
     <arg name="include_95_arg01" value="value_include_95_arg01"/>
     <arg name="include_95_arg02" value="value_include_95_arg02"/>
@@ -9886,9 +9696,7 @@
     <arg name="include_95_arg97" value="value_include_95_arg97"/>
     <arg name="include_95_arg98" value="value_include_95_arg98"/>
     <arg name="include_95_arg99" value="value_include_95_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_96.launch.xml">
     <arg name="include_96_arg00" value="value_include_96_arg00"/>
     <arg name="include_96_arg01" value="value_include_96_arg01"/>
     <arg name="include_96_arg02" value="value_include_96_arg02"/>
@@ -9989,9 +9797,7 @@
     <arg name="include_96_arg97" value="value_include_96_arg97"/>
     <arg name="include_96_arg98" value="value_include_96_arg98"/>
     <arg name="include_96_arg99" value="value_include_96_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_97.launch.xml">
     <arg name="include_97_arg00" value="value_include_97_arg00"/>
     <arg name="include_97_arg01" value="value_include_97_arg01"/>
     <arg name="include_97_arg02" value="value_include_97_arg02"/>
@@ -10092,9 +9898,7 @@
     <arg name="include_97_arg97" value="value_include_97_arg97"/>
     <arg name="include_97_arg98" value="value_include_97_arg98"/>
     <arg name="include_97_arg99" value="value_include_97_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_98.launch.xml">
     <arg name="include_98_arg00" value="value_include_98_arg00"/>
     <arg name="include_98_arg01" value="value_include_98_arg01"/>
     <arg name="include_98_arg02" value="value_include_98_arg02"/>
@@ -10195,9 +9999,7 @@
     <arg name="include_98_arg97" value="value_include_98_arg97"/>
     <arg name="include_98_arg98" value="value_include_98_arg98"/>
     <arg name="include_98_arg99" value="value_include_98_arg99"/>
-  </include>
 
-  <include file="$(find-pkg-share launch_validation_publisher_includes)/launch/launch_validation_publisher_include_99.launch.xml">
     <arg name="include_99_arg00" value="value_include_99_arg00"/>
     <arg name="include_99_arg01" value="value_include_99_arg01"/>
     <arg name="include_99_arg02" value="value_include_99_arg02"/>
