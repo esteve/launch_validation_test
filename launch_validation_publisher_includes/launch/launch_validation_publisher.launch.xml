@@ -10403,5 +10403,5 @@
   <arg name="arg99" description="arg99"/>
   -->
 
-  <node pkg="examples_rclcpp_minimal_publisher" exec="publisher_lambda" name="publisher_lambda_node" namespace="launch_validation_test" />
+  <node pkg="launch_validation_publisher_includes" exec="publisher_validation_node" name="publisher_validation_node" namespace="launch_validation_test" />
 </launch>
