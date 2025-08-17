@@ -10205,5 +10205,5 @@
   <arg name="arg99" description="arg99"/>
   -->
 
-  <node pkg="launch_validation_publisher_includes" exec="publisher_validation_node" name="publisher_validation_node" namespace="launch_validation_test" />
+  <node pkg="launch_validation_publisher_includes" exec="launch_validation_node" name="launch_validation_node" namespace="launch_validation_test" />
 </launch>
